@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module":"commonjs",
+    "target": "es2018",
+    "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "newLine": "LF",
+    "pretty": true,
+    "stripInternal": true,
+    "noEmitOnError": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

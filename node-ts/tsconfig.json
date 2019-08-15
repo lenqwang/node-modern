@@ -1,0 +1,12 @@
+{
+  "extends": "./baseConfig/tsconfig",
+  "compilerOptions": {
+    "outDir": "lib",
+    "lib": [
+      "es2018"
+    ]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
